@@ -27,9 +27,11 @@
 
 
 ### GitHub Stats:
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamusMist)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/SamusMist/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=SamusMist&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" />
 </a>
 <a href="https://github.com/SamusMist/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamusMist&theme=dark&layout=compact" />
 </a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
