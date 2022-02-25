@@ -28,8 +28,8 @@
 
 ### GitHub Stats:
 <a href="https://github.com/SamusMist/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=SamusMist21&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=SamusMist&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" />
 </a>
 <a href="https://github.com/SamusMist/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamusMist21&theme=dark&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamusMist&theme=dark&layout=compact" />
 </a>
