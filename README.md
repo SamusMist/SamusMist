@@ -10,7 +10,7 @@
 
 <h1 align='center'> 📍 </h1>
 <div align='center'>
-<a href='sovrn.com'>
+<a href='https://www.sovrn.com'>
 <img src='https://martech.org/wp-content/uploads/2014/01/sovrn_black-600x273.jpg' align='center' width='130' height='70'/> 
 </div>
   
