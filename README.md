@@ -3,7 +3,7 @@
   "firstName": "Sam",
   "lastName": "Mistele",
   "age": 33,
-  "occupation": "Full Stack Engineer"
+  "occupation": "Software Engineer 1"
 }
 ```
 
