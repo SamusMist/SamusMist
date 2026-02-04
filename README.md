@@ -57,7 +57,14 @@
 
 <div align='center'>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamusMist&show_icons=true&theme=dark)
+  <!-- GitHub Stats Card -->
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=scmistele&show_icons=true&theme=radical)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scmistele&theme=radical)](https://github.com/scmistele)
+
+<!-- Activity Graph -->
+[![Sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scmistele&theme=react-dark)](https://github.com/scmistele)
   
 </div>
 
