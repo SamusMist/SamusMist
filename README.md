@@ -57,9 +57,7 @@
 
 <div align='center'>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamusMist&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamusMist&layout=compact&exclude_repo=static-site-playground,htm_css_fundamentals,126e3d,tic-tac-toe,jsFun,self-care-center&theme=vision-friendly-dark)](https://github.com/SamusMist/github-readme-stats)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamusMist&layout=compact&theme=vision-friendly-dark)
   
 </div>
 
