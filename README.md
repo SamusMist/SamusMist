@@ -1,71 +1,57 @@
-```json
-{
-  "firstName": "Sam",
-  "lastName": "Mistele",
-  "age": 35,
-  "occupation": "Software Engineer 2"
-}
-```
-  
-<br/><br/>
+<div align="center">
 
+# Hi, I'm Sam Mistele 👋
 
- <h1 align='center'>📬</h1> 
-<div align='center'>
-  <a href="mailto:scmistele@gmail.com">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width='50' height='50' />
-  <a href="https://www.linkedin.com/in/sam-mistele-862b351b6/">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width='50' height='50' />
+**Software Engineer 2** · Building things on the web  
+*Formerly Sovrn Holdings LLC*
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scmistele@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-mistele-862b351b6/)
+
 </div>
 
-<br/><br/>
+---
 
+## 🛠️ Tech Stack
 
-   <h1 align='center'>👨🏼‍💻</h1>
-<div align='center'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg' width='50' height='50'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='50' height='50'/>
-</div>
+**Frontend**
 
-<br/><br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
-<div align='center'>
-  <img src='https://img.icons8.com/?size=512&id=52539&format=png' color='blue' width='50' height='50'/>
-</div>
+**Backend & Data**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**DevOps & Cloud**
 
-<div align='center'>
-  
-<!-- Stats in 2 columns -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scmistele&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scmistele&theme=github_dark)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<!-- Languages -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scmistele&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scmistele&theme=github_dark)
-<!-- Activity Graph -->
-[![Sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scmistele&theme=react-dark)](https://github.com/scmistele)
-  
-</div>
+**Tooling**
 
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**AI & Productivity**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B6B?style=flat-square&logo=rabbit&logoColor=white)
+![Figma Make](https://img.shields.io/badge/Figma_Make-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
